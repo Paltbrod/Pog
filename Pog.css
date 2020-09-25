@@ -1,0 +1,12 @@
+body {
+  font-family: "Bebas Neue", cursive;
+}
+
+h1 {
+  line-height: 50px;
+}
+
+header {
+  background-color: black;
+  color: white;
+}
