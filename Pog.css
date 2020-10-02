@@ -10,3 +10,9 @@ header {
   background-color: black;
   color: white;
 }
+
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
